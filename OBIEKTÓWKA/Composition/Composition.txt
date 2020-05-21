@@ -1,0 +1,9 @@
+COMPOSITION-deals with a has relationship 
+Example:
+motherboard
+monitor
+case
+they are not computers in the same sense that a Car is a Vehicle
+but a computer has a motherboard, has a monitor and a case.
+
+So composition is modeling part of the greater whole. This things like motherboard,monitor and case has a relationship (are parts) with computer.
